@@ -1,1 +1,5 @@
-
+Hey this is my second time recording in my progress journel. I dont like to keeps these long so Ill just give a brief about what I completed so far and what I worked on
+This session was about 3 hours (2:56 exactly) and I spent this time figuring out how to add in a OLED design into KICAD from scratch as it was not an option in the part symbol tab
+I also worked on mapping everything out on the PCB builder for my keyboard layout and spent quite a bit of time on that untill I found a plugin that can add in the keys formated for me as long as I used a proper JSON file
+I used this plugin (KBplacer) to speed up the process at the end as I spent alot of time painstakingly placing everysingle key is the spot I belived to be correct for my layout I planned
+I also spent alot of time looking at videos online finding out different methods to do what im doing but easier.
