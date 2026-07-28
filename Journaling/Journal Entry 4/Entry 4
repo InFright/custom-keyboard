@@ -1,1 +1,8 @@
-
+Entry number 4 
+Alright so for this entry im going to talk about how I actually restarted my progress.
+I realized that all the time I wasted un tangleing my pcb could just have easily been prevented if I didnt make a silly formating mistake in my schematic phase.
+But now that I know basically all the steps and im properly familar with the program KICAD I was certain that I would be able to fix all of my mistakes and just make a better overall keyboard pcb.
+I swapped the layout to a basic 60% keyboard to save enough GPIO pins on my raspberry pico for an oled monitor on the side and I made sure to deep comb through all of my prior mistakes to make sure I didnt repeat them.
+I also got to the routing step surprisingly fast once I started working actually knowing what I was doing in the program.
+I spent a decent amount of time making traces on the front and the back of the pcb making sure to take advantage of via's to overlap some of the routes. 
+also once everything was connected (which I ensured to never have a larger that 45 degree angle) I did a fill zone to ground the board to finish it off to make it look more proffesional 
