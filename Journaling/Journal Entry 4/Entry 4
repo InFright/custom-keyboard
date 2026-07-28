@@ -6,3 +6,4 @@ I swapped the layout to a basic 60% keyboard to save enough GPIO pins on my rasp
 I also got to the routing step surprisingly fast once I started working actually knowing what I was doing in the program.
 I spent a decent amount of time making traces on the front and the back of the pcb making sure to take advantage of via's to overlap some of the routes. 
 also once everything was connected (which I ensured to never have a larger that 45 degree angle) I did a fill zone to ground the board to finish it off to make it look more proffesional 
+I was able to get this all done in under 5 hours thought so Im quite proud of how far I have come
